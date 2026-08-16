@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Imroz 👋 
 
-<!--
-**ImrozSan/ImrozSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Diploma Student in AI & ML** | Learning Python, Data Analytics & Automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+* 🎓 Pursuing **3rd Year Diploma in AI & Machine Learning**.
+* 🛠️ **Current Focus:** Core **Python logic**, Data Structures, and **Power BI Dashboards**.
+* 📈 **Goal:** Building practical projects and targeting top B.Tech/BE colleges for degree.
+
+---
+
+### 🛠️ Skills & Tools
+* **Languages:** Python (Basic), C/C++
+* **Data & Analytics:** Power BI, Excel, Data Modeling
+* **Version Control:** Git & GitHub
+
+---
+
+### 📊 Featured Projects
+* 📁 **[Dividend Analytics Dashboard](./dividend-analytics-dashboard)** – Interactive Power BI dashboard for financial data.
+
+---
+
+### 📫 Connect With Me
+* 💼 **LinkedIn:** [www.linkedin.com/in/imrozsan]
+* 📧 **Email:** [imrozs723@gmail.com]
